@@ -90,7 +90,7 @@ The most important part of the catalog is the list of Example Applications that 
 
 ### Example Application descriptor
 
-For each Example Application, add a JON object to the catalog file. In that object should be the following information:
+For each Example Application, add a JSON object to the catalog file. In that object should be the following information:
 
 Name   | Description 
 ------ | -----------
